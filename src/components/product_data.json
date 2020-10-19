@@ -1,0 +1,423 @@
+[
+    {
+        "id": 0,
+        "title": "Pankek",
+        "imgURL": "https://i.ytimg.com/vi/aR-NXRr644U/maxresdefault.jpg",
+        "price": 13,
+        "descp": "Yumaşacık, sıcacık çikolatalı pankek",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 1,
+        "title": "Ayvalık Tostu",
+        "imgURL": "https://cdn.yemek.com/mncrop/600/315/uploads/2018/09/ayvalik-tostu.jpg",
+        "price": 12,
+        "descp": "Egenin bağrından taptaze zeytinyağ aromalı ayvalık tostu",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 2,
+        "title": "Kaşarlı Sucuklu Tost",
+        "imgURL": "https://i.pinimg.com/originals/3d/73/71/3d7371a16fa7e40bd44353e24a7ac15f.jpg",
+        "price": 13,
+        "descp": "Afyon sucuklu kaşarlı acılı ezmeli tost",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 3,
+        "title": "Menemen",
+        "imgURL": "https://lezzet.blob.core.windows.net/images-xxlarge-recipe/menemen-4b718aac-cb07-488f-8346-3a504bfb67ef.jpg",
+        "price": 15,
+        "descp": "Önceden yediğiniz tüm menemenleri unuttturacak bir tat",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 4,
+        "title": "Sunny Side Up",
+        "imgURL": "https://images-gmi-pmc.edge-generalmills.com/15e75029-e7b7-40eb-9e23-a526d174c925.jpg",
+        "price": 10,
+        "descp": "Hafif olduğu kadar doyurucu bir şey arayanlara",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 5,
+        "title": "Patates Kızartması",
+        "imgURL": "https://nypost.com/wp-content/uploads/sites/2/2018/08/istock-618214356.jpg?quality=80&strip=all",
+        "price": 9,
+        "descp": "Çıtır çıtır hafif yağda kızarmış patatesler",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 6,
+        "title": "Yumurtalı Ekmek",
+        "imgURL": "https://cdn.yemek.com/mnresize/940/940/uploads/2019/09/pizza-tadinda-yumurtali-ekmek-tarifi.jpg",
+        "price": 17,
+        "descp": "Pizza tadında yumurtaya bulanmış ekmekler",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 7,
+        "title": "Yumurtalı Patates",
+        "imgURL": "https://i.ytimg.com/vi/2ygO9vhI2tE/hqdefault.jpg",
+        "price": 12,
+        "descp": "Yumurta ile patatesin eşsiz uyumu",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 8,
+        "title": "Kuymak",
+        "imgURL": "https://lezzet.blob.core.windows.net/images-xxlarge-recipe/mihlama-64840bd6-c2e5-481b-80b5-97ab21e1ec8d.jpg",
+        "price": 15,
+        "descp": "Trabzondan gelen muhteşem lezzet",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 9,
+        "title": "Kahvaltı Tabağı",
+        "imgURL": "https://ahenkcafe.com/fotolar/buyuk/urun-20200514215738.jpg",
+        "price": 18,
+        "descp": "Birbirinden farklı lezzetler bir tabakta",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 10,
+        "title": "Mercimek Çorbası",
+        "imgURL": "https://cdn.yemek.com/mncrop/940/625/uploads/2014/06/mercimek-corbasi-yemekcom.jpg",
+        "price": 13,
+        "descp": "Sımsıcak lokanta usulü",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 11,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 11,
+        "title": "Tarhana Çorbası",
+        "imgURL": "https://i4.hurimg.com/i/hurriyet/75/750x422/5e7cb39f67b0a910d4df26f5.jpg",
+        "price": 12,
+        "descp": "Anadolunun bağrından, sarımsaklı tarhana",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 12,
+        "title": "Domates Çorbası",
+        "imgURL": "https://cdn.yemek.com/mncrop/940/625/uploads/2016/10/sutlu-domates-corbasi.jpg",
+        "price": 13,
+        "descp": "Közlenmiş domatesi bir de böyle deneyin",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 13,
+        "title": "Kelle Paça",
+        "imgURL": "https://seyler.ekstat.com/img/max/800/G/GHJAd58DRit5GLdT-637105585027323148.jpg",
+        "price": 15,
+        "descp": "Bağışıklılık sistemini zımba gibi yapan kelle paça",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 14,
+        "title": "İşkembe",
+        "imgURL": "https://i4.hurimg.com/i/hurriyet/75/750x422/5b755a3db699de1e98c0938f.jpg",
+        "price": 10,
+        "descp": "Geleneksel Türk mutfağının vazgeçilmezi",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 15,
+        "title": "Ezogelin Çorbası",
+        "imgURL": "https://iasbh.tmgrup.com.tr/4f1860/752/395/0/0/752/395?u=https://isbh.tmgrup.com.tr/sbh/2020/04/09/ezogelin-corbasi-tarifi-nefis-ezogelin-corbasi-nasil-yapilir-1586418832561.jpg",
+        "price": 9,
+        "descp": "Kalabalık sofraların baştacı",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 16,
+        "title": "Kremalı Tavuk Çorbası",
+        "imgURL": "https://cdn.yemek.com/mncrop/940/625/uploads/2014/11/terbiyeli-tavuk-corbasi-yemekcom.jpg",
+        "price": 17,
+        "descp": "Bomba Lezzet",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 17,
+        "title": "Kremalı Mantar Çorbası",
+        "imgURL": "https://im.haberturk.com/2020/08/11/ver1597120802/2769297_810x458.jpg",
+        "price": 12,
+        "descp": "Kestane ile mantarın eşsiz uyumu",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 18,
+        "title": "Yoğurt Çorbası",
+        "imgURL": "https://cdn.yemek.com/mncrop/940/625/uploads/2019/05/pirincli-yogurt-corbasi-yeni.jpg",
+        "price": 15,
+        "descp": "Klasik Türk mutfağının en klasiği",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 19,
+        "title": "Ayran Aşı",
+        "imgURL": "https://bebekegitimi.com/wp-content/uploads/2018/07/Sog%CC%86uk-Ayran-As%CC%A7i-C%CC%A7orbasi.png",
+        "price": 18,
+        "descp": "Soğuk çorba tattınız mı?",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 20,
+        "title": "Sultan Sarması",
+        "imgURL": "https://cdn.yemek.com/mncrop/940/625/uploads/2019/08/visneli-saray-sarmasi-tarifi.jpg",
+        "price": 18,
+        "descp": "sütlü rulo tatlıların kalbimizdeki yeri her zaman başka",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 21,
+        "title": "Sütlü Şerbetli",
+        "imgURL": "https://cdn.yemek.com/mncrop/940/625/uploads/2018/05/sut-serbetli-tatli-site-yeni.jpg",
+        "price": 12,
+        "descp": "Hem hafif hem sütlü",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 22,
+        "title": "Kadayıflı paşa sarma",
+        "imgURL": "https://cdn.yemek.com/uploads/2017/11/kadayifli-pasa-sarma-tarifi.jpg",
+        "price": 13,
+        "descp": "Kakaolu değil de şöyle hafif çıtır çıtır",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 23,
+        "title": "Muzlu tavuk göğsü",
+        "imgURL": "https://cdn.yemek.com/uploads/2018/06/muzlu-tavuk-gogsu-sarma-tarifi.jpg",
+        "price": 15,
+        "descp": "Muz bir tatlıya hiç bu kadar yakışmamıştı",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 24,
+        "title": "Unsuz Şekersiz Pasta",
+        "imgURL": "https://cdn.yemek.com/uploads/2020/05/unsuz-sekersiz-pasta-simay.jpg",
+        "price": 10,
+        "descp": "Diyet dostu",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 25,
+        "title": "Fit irmik ",
+        "imgURL": "https://cdn.yemek.com/uploads/2020/05/fit-irmik-tatlisi-duygukonak.jpg",
+        "price": 9,
+        "descp": "Rafine şekersiz, irmiğin en hafifi",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 26,
+        "title": "İncir Uyutması",
+        "imgURL": "https://cdn.yemek.com/uploads/2020/05/kolay-incir-uyutmasi-editor.jpg",
+        "price": 17,
+        "descp": "Şaşırmak isteyenlere",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 27,
+        "title": "Kupta limonlu cheesecake",
+        "imgURL": "https://cdn.yemek.com/uploads/2020/05/kupta-limonlu-cheesecake-gurme.jpg",
+        "price": 12,
+        "descp": "Muhteşem limon",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 28,
+        "title": "İrmikli mini barlar",
+        "imgURL": "https://cdn.yemek.com/uploads/2020/02/irmikli-mini-barlar.jpg",
+        "price": 15,
+        "descp": "Porsiyonluk mini cheesecaler",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    {
+        "id": 29,
+        "title": "Vişneli Sütlü İrmik",
+        "imgURL": "https://cdn.yemek.com/uploads/2019/08/visneli-sutlu-irmik-tatlisi-tarifi-one-cikan-renkli-tatlilar.jpg",
+        "price": 18,
+        "descp": "Taptaze vişnelerle hazırlanmış muhteşem bir lezzet",
+        "currency": "₺",
+        "order": "Sipariş Ver",
+        "inStock": true,
+        "count": 0,
+        "up": "+",
+        "down": "-"
+
+    },
+    
+]
